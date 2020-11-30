@@ -161,6 +161,8 @@
       <li>Ski</li>
       <li>Escalade</li>
       <li>Vélo</li>
+      <li>Photographie</li>
+      <li>Guitare</li>
     </ol>
 
 
