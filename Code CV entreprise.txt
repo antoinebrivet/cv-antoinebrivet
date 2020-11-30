@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<link rel="stylesheet" src="styles.css"/>
+    <title>Cv_antoine_iteration3</title>
+    
+</head>
+<body>
+
+  <header>
+
+    
+
+                <nav class="navbar navbar-expand-lg navbar-light bg-warning" >
+
+
+                    
+                  <div id="logo"><img src="images/pumpkin.png" alt="logo" height="50px" widht=50px></div> 
+                  <a class="navbar-brand" href="#">PumpKing</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                      <ul class="navbar-nav">
+                        <li class="nav-item active">
+                                          
+
+                          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Produits & Services<li id="basket"><a href=""><img id="panier" src="images/shopping-cart.png" alt="Mon panier" height="50" widht=50px></a></li></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">L'équipe</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Mon compte</a>
+                        </li>
+                      </ul>
+                    </div>
+                
+                    
+
+                  </nav>
+
+                
+            </ul>
+        </nav>
+    </header>
+
+    <h3>Expériences Professionnelles</h3>
+    <table class="table">
+        <thead>
+          <tr>
+            <th scope="col">Dates</th>
+            <th scope="col">Entreprises</th>
+            <th scope="col">Postes</th>
+            <th scope="col">Descriptions</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">2019-2020</th>
+            <td>Laboratoires Uriage - Echirolles</td>
+            <td>Manutentionnaire</td>
+            <td> Manutention<br>
+                Delottage<br>
+                Emballage<br></td>
+          </tr>
+          <tr>
+            <th scope="row">2017</th>
+            <td>Gérard et Peysson - Echirolles</td>
+            <td>Préparateur de commandes</td>
+            <td>Manuttention<br>
+                Picking<br>
+                Emballage<br></td>
+          </tr>
+          <tr>
+            <th scope="row">2016-2017</th>
+            <td>Jdf- Diffusion - Paladru</td>
+            <td>Agent Logistique</td>
+            <td>Manutention<br>
+                Réception<br>
+                Stockage<br>
+                Préparation de commandes<br>
+                Expédition<br></td>
+          </tr>
+         </tbody>
+      </table>
+
+      <h3>Formation</h3>
+
+    <table>
+      <tr>
+        <td><p class="dates">2020-2022</p></td>
+        <td><p class="fac">Technicien développeur web au Campus Numérique in the Alps à Grenoble</p></td>
+      </tr>
+
+      <tr>
+        <td><p class="dates">2012-2014</p></td>
+        <td><p class="fac">BTS Transport et Prestation Logistique à Grenoble</p></td>
+      </tr>
+
+      <tr>
+        <td><p class="dates">2010-2012</p></td>
+        <td><p class="fac">BAC Pro Logistique à Rumilly</p></td>
+      </tr>
+    </table>
+
+    <h3>Compétences</h3>
+
+    <ul>
+      <li class="special">Langues</li>
+    </ul>
+
+        <p>Bilingue Français/Anglais</p>
+
+        <div class="container">
+          <div class="skills Anglais"></div>
+        </div>
+        
+        <br>
+    <ul>
+      <li class="special">Logiciels</li>
+    </ul>
+
+        <p>Word</p>
+
+          <div class="container">
+            <div class="skills Word"></div>
+          </div>
+
+        <p>Excel</p>
+
+          <div class="container">
+            <div class="skills Excel"></div>
+          </div>
+
+        <p>Powerpoint</p>
+          <div class="container">
+            <div class="skills Powerpoint"></div>
+          </div>
+              
+        <br>
+    <ul>
+      <li class="special">Personnalité</li>
+    </ul>   
+        <p>Rigeur, Autonomie, Polyvalence, Réactivité et Adaptabilité</p>
+
+        <div class="container">
+        </div>
+
+        <br>
+        
+    <h3>Hobbies</h3>
+
+    <ol>
+      <li>Ski</li>
+      <li>Escalade</li>
+      <li>Vélo</li>
+    </ol>
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-warning">
+                    <a class="navbar-brand" href="#">PumpKing</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                      <ul class="navbar-nav">
+                        <li class="nav-item active">
+                          <a class="nav-link" href="#">Mentions Légales <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Plan du site</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Conditions générales de vente</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="#">Nous contacter</a>
+                        </li>
+                      </ul>
+
+                      <div id="left_bloc_footer">
+                        <div id="logo_footer"><img src="images/pumpkin.png" alt="logo" height="50px" widht=50px></div>
+
+                    </div>
+                  </nav>
+
+
+
+
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+</html>
